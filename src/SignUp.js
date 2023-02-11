@@ -38,7 +38,9 @@ export default function SignUp() {
 
 
   return (
+    
     <center>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <form className="form-inline">
         {/*put this after inline" ^^ onSubmit={handleSubmit}> */}
         

@@ -33,7 +33,13 @@ export default function SignIn() {
 
 
   return (
+  
+
     <center>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
+    {/* <p>Please enter your email and password to log in:</p> */}
+
     <form className="form-inline">
     
       <div className="form-group mx-sm-3 mb-2">
